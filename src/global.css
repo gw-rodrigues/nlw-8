@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.h1 {
-    @apply bg-violet-500 px-4 h-10 rounded gap-2 p-2 m-2;
+body {
+    @apply bg-[#09090A] text-zinc-100
 }
