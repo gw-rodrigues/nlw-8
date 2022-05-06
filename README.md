@@ -1,9 +1,14 @@
-# NLW Return
+![Header](https://user-images.githubusercontent.com/92688864/167153358-4ed6b13b-4404-45c9-a381-54158db825c5.png)
 
-Para preparar você para essa semana incrível de muito conteúdo e aprendizado, vamos começar configurando nosso ambiente de desenvolvimento com algumas ferramentas fundamentais para chegarmos no fim desse evento com nosso projeto finalizado. Nas aulas mencionamos algumas documentações, então vamos centralizar todas elas por aqui para facilitar!
+![Demonstration](https://user-images.githubusercontent.com/92688864/167153385-be478fba-4b3f-433a-86b7-a7c6cf7045fc.png)
 
-Os guias estão separados por trilhas, então escolha de acordo com a trilha que você se inscreveu e conte com a gente pela comunidade caso precise de alguma ajuda 💜
+![Roadmap](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/Roadmap.svg)
 
-## Escolha a sua trilha!
+![Instalation](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/Instalation.svg)
 
-[Impulse](https://www.notion.so/Impulse-58f2daadb8e1433894420cbc57571087)
+![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/More....svg)
+
+### I want to do the challenges? Choose your path!
+- [Origin](https://www.notion.so/Origin-6a9ada1d9f434bf1a85b7f3f50ef0347)
+
+- [Impulse](https://www.notion.so/Impulse-58f2daadb8e1433894420cbc57571087)
