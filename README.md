@@ -1,8 +1,6 @@
-# NLW Return
+![Header](https://user-images.githubusercontent.com/92688864/167153358-4ed6b13b-4404-45c9-a381-54158db825c5.png)
 
-Para preparar você para essa semana incrível de muito conteúdo e aprendizado, vamos começar configurando nosso ambiente de desenvolvimento com algumas ferramentas fundamentais para chegarmos no fim desse evento com nosso projeto finalizado. Nas aulas mencionamos algumas documentações, então vamos centralizar todas elas por aqui para facilitar!
-
-Os guias estão separados por trilhas, então escolha de acordo com a trilha que você se inscreveu e conte com a gente pela comunidade caso precise de alguma ajuda 💜
+![Demonstration](https://user-images.githubusercontent.com/92688864/167153385-be478fba-4b3f-433a-86b7-a7c6cf7045fc.png)
 
 ## Escolha a sua trilha!
 
