@@ -4,6 +4,16 @@
 
 ![Roadmap](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/Roadmap.svg)
 
+![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/STEP.svg)
+
+![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/STEP-1.svg)
+
+![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/STEP-2.svg)
+
+![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/STEP-3.svg)
+
+![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/STEP-4.svg)
+
 ![Instalation](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/Instalation.svg)
 
 ![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/More....svg)
