@@ -8,5 +8,7 @@
 
 ![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/ab400cd46f428c4d08da4b0bf851f14d375632b9/More....svg)
 
-## Escolha a sua trilha!
-[Impulse](https://www.notion.so/Impulse-58f2daadb8e1433894420cbc57571087)
+### I want to do the challenges? Choose your path!
+- [Origin](https://www.notion.so/Origin-6a9ada1d9f434bf1a85b7f3f50ef0347)
+
+- [Impulse](https://www.notion.so/Impulse-58f2daadb8e1433894420cbc57571087)
