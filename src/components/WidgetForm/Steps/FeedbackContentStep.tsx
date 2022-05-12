@@ -3,16 +3,19 @@ import { FormEvent, useState } from "react";
 import { FeedbackType, feedbackTypes } from "..";
 import { api } from "../../../lib/api";
 import { CloseButton } from "../../CloseButton";
+import { Loading } from "../Loading";
 import { ScreenshotButton } from "../ScreenshotButton";
 
 interface FeedbackContentStepProps {
   feedbackType: FeedbackType;
+  feedbackSent: boolean;
   onFeedbackRestartRequested: () => void;
   onFeedbackSent: () => void;
 }
 
 export function FeedbackContentStep({
   feedbackType,
+  feedbackSent,
   onFeedbackRestartRequested,
   onFeedbackSent,
 }: FeedbackContentStepProps) {
@@ -22,13 +25,13 @@ export function FeedbackContentStep({
 
   async function handleSubmitFeedback(event: FormEvent) {
     event.preventDefault();
+    onFeedbackSent();
     //console.log({screenshot, comment})
     await api.post("/feedbacks", {
       type: feedbackType,
       comment,
-      screenshot
+      screenshot,
     });
-    onFeedbackSent();
   }
 
   return (
@@ -70,7 +73,7 @@ export function FeedbackContentStep({
             disabled={comment.length === 0}
             className="p-2 bg-brand-500 rounded-md border-transparent flex-1 flex justify-center items-center text-sm hover:bg-brand-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-zinc-900 focus:ring-brand-500 transition-colors disabled:opacity-50 disabled:hover:bg-brand-500"
           >
-            Enviar feedback
+            {feedbackSent ? <Loading /> : "Enviar feedback"}
           </button>
         </footer>
       </form>
