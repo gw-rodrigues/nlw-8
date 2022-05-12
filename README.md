@@ -34,7 +34,7 @@ npx degit user/repository#main new-project-folder-name
 
 ![More...](https://gist.githubusercontent.com/gw-rodrigues/d0ea04e57502976391b0f71b9a06d918/raw/eba1ec06e6bf00f792d9f1f4ca4ce7df1dab9673/More....svg)
 
-![GitHub](https://img.shields.io/github/license/gw-rodrigues/nlw-8?style=for-the-badge)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](./LICENSE)
 ![GitHub Repo stars](https://img.shields.io/github/stars/gw-rodrigues/nlw-8?style=for-the-badge)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/gw-rodrigues/nlw-8?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gw-rodrigues/nlw-8?style=for-the-badge)
